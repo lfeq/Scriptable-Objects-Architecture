@@ -43,12 +43,8 @@ This package currently provides:
 2. Go to `Window` > `Package Manager`.
 3. Click the `+` button in the top-left corner.
 4. Select `Add package from git URL...`.
-5. Enter the repository URL: `[YOUR GITHUB REPO URL HERE]` (e.g., `https://github.com/your-username/your-repo-name.git`)
+5. Enter the repository URL: `https://github.com/lfeq/Scriptable-Objects-Architecture.git`
 6. Click `Add`. Unity will download and import the package.
-
-*(Alternatively, if you don't host it on Git, you can manually clone/download the repository and copy
-the `Assets/Scriptable_Objects_Architecture` folder (or your package structure) into your Unity project's `Packages`
-folder.)*
 
 ## How to Use
 
