@@ -35,6 +35,16 @@ This package currently provides:
 * **Runtime Flexibility:** Variables can be observed for changes, allowing reactive UI or game logic.
 * **Predictable State:** Automatic reset mechanisms ensure consistent starting states during development and in builds.
 
+## Testing
+
+The project now includes comprehensive unit tests for:
+
+- *Variables*: Ensuring correct initialization, event triggering, and reset behavior.
+- *References*: Validating that references correctly switch between constant values and variable asset values.
+
+These tests are implemented using Unity's built-in test framework and NUnit, ensuring robustness and reliability of the
+Scriptable Object Architecture.
+
 ## Installation
 
 **Using Unity Package Manager (Recommended)**
