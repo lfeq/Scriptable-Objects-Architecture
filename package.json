@@ -1,6 +1,6 @@
 {
   "name": "com.lorenz_equihua.my_tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Scriptable Objects Architecture",
   "description": "Package to get started with Scriptable Objects Architecture.\n\nThis package contains a set of tools and examples to help you get started with Scriptable Objects Architecture in Unity. It includes a simple game manager, a scriptable object for storing game data.",
   "unity": "2022.1",
